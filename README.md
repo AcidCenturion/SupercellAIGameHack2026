@@ -7,6 +7,8 @@ Included in this repo is the source code to the game as exported from Rosebud AI
 
 https://rosebud.ai/p/chimera-crafter-1
 
+or alternatively on our itch.io page:
+https://charmiedev.itch.io/elemancers
 
 
 P.S. we ran out of credits in the middle of development and so we made another account and used the promo code again in order to remix our own game. This is why some naming might not line up and why it will have the remix labels and all.
